@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Project-Id-Version: ForkBB\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
@@ -13,31 +13,31 @@ msgstr ""
 "Language: fr\n"
 
 msgid "No user message"
-msgstr "Aucun utilisateur enregistré sous ce nom d\'utilisateur. Si vous souhaitez ajouter un bannissement n\'étant pas associé à un nom d\'utilisateur veuillez laisser le champ du nom d\'utilisateur vide."
+msgstr "Aucun utilisateur enregistré sous ce nom d\'utilisateur. Si vous souhaitez ajouter un bannissement n&apos;étant pas associé à un nom d\'utilisateur veuillez laisser le champ du nom d\'utilisateur vide."
 
 msgid "No user ID message"
 msgstr "Aucun utilisateur inscrit avec cet ID."
 
 msgid "User is admin message"
-msgstr "L\'utilisateur %s est un administrateur et ne peut être banni. Si vous souhaitez bannir un administrateur, vous devez d\'abord le destituer de ce rang."
+msgstr "L&apos;utilisateur %s est un administrateur et ne peut être banni. Si vous souhaitez bannir un administrateur, vous devez d\'abord le destituer de ce rang."
 
 msgid "User is mod message"
-msgstr "L\'utilisateur %s est un modérateur et ne peut être banni. Si vous souhaitez bannir un modérateur, vous devez d\'abord le destituer de ce rang."
+msgstr "L&apos;utilisateur %s est un modérateur et ne peut être banni. Si vous souhaitez bannir un modérateur, vous devez d\'abord le destituer de ce rang."
 
 msgid "User is ban"
-msgstr "L\'utilisateur %s est banni."
+msgstr "L&apos;utilisateur %s est banni."
 
 msgid "Must enter message"
-msgstr "Vous devez indiquer, au minimum, soit un nom d\'utilisateur, soit une adresse IP, soit une adresse électronique."
+msgstr "Vous devez indiquer, au minimum, soit un nom d&apos;utilisateur, soit une adresse IP, soit une adresse électronique."
 
 msgid "Cannot ban guest message"
 msgstr "Un visiteur ne peut être banni."
 
 msgid "Invalid IP message (%s)"
-msgstr "Vous avez indiqué une IP/plage d\'IP invalide.(%s)."
+msgstr "Vous avez indiqué une IP/plage d&apos;IP invalide.(%s)."
 
 msgid "Invalid e-mail message"
-msgstr "L\'adresse électronique (ex. : utilisateur@domaine.com) ou le nom de domaine d\'adresse électronique (ex. : domaine.com) que vous avez indiqué est invalide."
+msgstr "L&apos;adresse électronique (ex. : utilisateur@domaine.com) ou le nom de domaine d&apos;adresse électronique (ex. : domaine.com) que vous avez indiqué est invalide."
 
 msgid "Invalid date message"
 msgstr "Vous avez indiqué une date d\'expiration invalide.. Le banissement doit durer au moins un jour."
@@ -64,10 +64,10 @@ msgid "Edit ban subhead"
 msgstr "Editer le banissement"
 
 msgid "Username label"
-msgstr "Nom d\'utilisateur"
+msgstr "Nom d&apos;tilisateur"
 
 msgid "Username help"
-msgstr "Le nom d\'utilisateur à bannir (insensible à la casse)."
+msgstr "Le nom d&apos;utilisateur à bannir (insensible à la casse)."
 
 msgid "Ban search head"
 msgstr "Recherche de bannissements"
@@ -88,7 +88,7 @@ msgid "Order by id"
 msgstr "ID"
 
 msgid "Order by username"
-msgstr "Nom d\'utilisateur"
+msgstr "Nom d&apos;utilisateur"
 
 msgid "Order by ip"
 msgstr "IP"
@@ -97,7 +97,7 @@ msgid "Order by e-mail"
 msgstr "E-mail"
 
 msgid "Order by expire"
-msgstr "Date d\'expiration"
+msgstr "Date d&apos;expiration"
 
 msgid "Ascending"
 msgstr "Ascendant"
@@ -112,19 +112,19 @@ msgid "E-mail label"
 msgstr "E-mail"
 
 msgid "E-mail help"
-msgstr "L\'e-mail ou le domaine d\'e-mail que vous souhaitez bannir (ex. : utilisateur@domaine.com ou domaine.com)"
+msgstr "L&apos;e-mail ou le domaine d\'e-mail que vous souhaitez bannir (ex. : utilisateur@domaine.com ou domaine.com)"
 
 msgid "IP label"
 msgstr "Adresse IP/plages d\'adresses IP"
 
 msgid "IP help"
-msgstr "L\'adresse IP ou la plage d\'adresses IP que vous souhaitez bannir (ex. : 150.11.110.1 ou 150.11.110). Séparez les adresses par des espaces. Si une IP est déjà indiquée, il s\'agit de la dernière adresse IP connue de cet utilisateur enregistrée dans la base de données."
+msgstr "L&apos;adresse IP ou la plage d\'adresses IP que vous souhaitez bannir (ex. : 150.11.110.1 ou 150.11.110). Séparez les adresses par des espaces. Si une IP est déjà indiquée, il s&apos;agit de la dernière adresse IP connue de cet utilisateur enregistrée dans la base de données."
 
 msgid "Ban message label"
 msgstr "Message de bannissement"
 
 msgid "Ban message help"
-msgstr "Un message qui s\'affichera lors de la prochaine visite de l\'utilisateur banni."
+msgstr "Un message qui s&apos;affichera lors de la prochaine visite de l&apos;utilisateur banni."
 
 msgid "Message expiry subhead"
 msgstr "Message de bannissement et expiration"
@@ -139,7 +139,7 @@ msgid "Results head"
 msgstr "Résultats de la recherche"
 
 msgid "Results username head"
-msgstr "Nom d'utilisateur"
+msgstr "Nom d&apos;utilisateur"
 
 msgid "Results e-mail head"
 msgstr "E-mail"
@@ -148,7 +148,7 @@ msgid "Results IP address head"
 msgstr "IP/plage IP"
 
 msgid "Results expire head"
-msgstr "Date d\'expiration"
+msgstr "Date d&apos;expiration"
 
 msgid "Results message head"
 msgstr "Message"

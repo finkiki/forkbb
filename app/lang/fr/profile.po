@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Project-Id-Version: ForkBB\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
